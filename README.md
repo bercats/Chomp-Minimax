@@ -16,33 +16,3 @@ The program may cause errors if any unexpected input is given to the menu, so it
 The program can be run by typing the following command in the terminal:  
 `python3 main.py`
 
-# Sample Run
-
-A sample run of the game looks like this:
-
-`Enter number of rows: 2
-Enter number of columns: 2
-Choose mode (AI/Human): AI
-Do you want to start first? (y/n): n
-# 1
-1 1
-
-AI's turn
-AI chooses move: (1, 1)
-# 1
-1 0
-
-Human's turn
-Enter row and column: 0 1
-# 0
-1 0
-
-AI's turn
-AI chooses move: (1, 0)
-# 0
-0 0
-
-Human's turn
-Enter row and column: 0 0
-Human has to eat the poisonous piece! AI wins!
-AI visited 24 nodes.`
